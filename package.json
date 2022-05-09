@@ -1,0 +1,24 @@
+{
+  "name": "consumindo-api-cep-e-retornando-a-rua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrycall/Consumindo-Api-cep-e-retornando-a-rua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henrycall/Consumindo-Api-cep-e-retornando-a-rua/issues"
+  },
+  "homepage": "https://github.com/Henrycall/Consumindo-Api-cep-e-retornando-a-rua#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
