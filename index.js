@@ -1,6 +1,7 @@
 const express = require('express')
 const app = express()
 var axios = require('axios');
+require('dotenv').config()
 
 app.listen(80, ()=> console.log("servidor rodando na porta 80"))
 
@@ -11,7 +12,7 @@ async function getcep(LatitudeAndAltitude){
         const request = {
 
                 method: 'get',
-                url: `https://maps.googleapis.com/maps/api/geocode/json?address=${LatitudeAndAltitude}&key=AIzaSyAvcj5s5-sPeoO6i8KMImXNcX0r-Ko_poY`,
+                url: `https://maps.googleapis.com/maps/api/geocode/json?address=${LatitudeAndAltitude}&key=${SEU_TOKEN_SAFADO}`,
                 headers: {"Content-Type":"application/json"}
     
         }
