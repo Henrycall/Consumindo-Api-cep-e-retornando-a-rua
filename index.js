@@ -12,7 +12,7 @@ async function getcep(LatitudeAndAltitude){
         const request = {
 
                 method: 'get',
-                url: `https://maps.googleapis.com/maps/api/geocode/json?address=${LatitudeAndAltitude}&key=${SEU_TOKEN_SAFADO}`,
+                url: `https://maps.googleapis.com/maps/api/geocode/json?address=${LatitudeAndAltitude}&key=${process.env.SEU_TOKEN_SAFADO}`,
                 headers: {"Content-Type":"application/json"}
     
         }
