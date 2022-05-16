@@ -1,0 +1,700 @@
+[
+    {
+        "address_components": [
+            {
+                "long_name": "1176",
+                "short_name": "1176",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Rua José de Alencar",
+                "short_name": "R. José de Alencar",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Santa Tereza",
+                "short_name": "Santa Tereza",
+                "types": [
+                    "political",
+                    "sublocality",
+                    "sublocality_level_1"
+                ]
+            },
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "63050-310",
+                "short_name": "63050-310",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "R. José de Alencar, 1176 - Santa Tereza, Juazeiro do Norte - CE, 63050-310, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -7.2263796,
+                "lng": -39.3155864
+            },
+            "location_type": "ROOFTOP",
+            "viewport": {
+                "northeast": {
+                    "lat": -7.225030619708498,
+                    "lng": -39.3142374197085
+                },
+                "southwest": {
+                    "lat": -7.227728580291502,
+                    "lng": -39.3169353802915
+                }
+            }
+        },
+        "place_id": "ChIJZ0X2Cpx4oQcRPJ_xwk98eD8",
+        "types": [
+            "street_address"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "1146-1248",
+                "short_name": "1146-1248",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Rua José de Alencar",
+                "short_name": "R. José de Alencar",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "João Cabral",
+                "short_name": "João Cabral",
+                "types": [
+                    "political",
+                    "sublocality",
+                    "sublocality_level_1"
+                ]
+            },
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "63050-310",
+                "short_name": "63050-310",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "R. José de Alencar, 1146-1248 - João Cabral, Juazeiro do Norte - CE, 63050-310, Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": -7.2261436,
+                    "lng": -39.3155294
+                },
+                "southwest": {
+                    "lat": -7.2271275,
+                    "lng": -39.3155388
+                }
+            },
+            "location": {
+                "lat": -7.2266355,
+                "lng": -39.3155345
+            },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+                "northeast": {
+                    "lat": -7.225286569708498,
+                    "lng": -39.3141851197085
+                },
+                "southwest": {
+                    "lat": -7.227984530291502,
+                    "lng": -39.3168830802915
+                }
+            }
+        },
+        "place_id": "ChIJ5fNeipt4oQcRQnnwTll-7wg",
+        "types": [
+            "route"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "63051-065",
+                "short_name": "63051-065",
+                "types": [
+                    "postal_code"
+                ]
+            },
+            {
+                "long_name": "Rua José de Alencar",
+                "short_name": "R. José de Alencar",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "João Cabral",
+                "short_name": "João Cabral",
+                "types": [
+                    "political",
+                    "sublocality",
+                    "sublocality_level_1"
+                ]
+            },
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "R. José de Alencar - João Cabral, Juazeiro do Norte - CE, 63051-065, Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": -7.2155086,
+                    "lng": -39.3151597
+                },
+                "southwest": {
+                    "lat": -7.237064,
+                    "lng": -39.3160366
+                }
+            },
+            "location": {
+                "lat": -7.225810300000001,
+                "lng": -39.31557249999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": -7.2155086,
+                    "lng": -39.3142491697085
+                },
+                "southwest": {
+                    "lat": -7.237064,
+                    "lng": -39.31694713029149
+                }
+            }
+        },
+        "place_id": "ChIJzexTioN4oQcRvkHJDW651As",
+        "types": [
+            "postal_code"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Romeirao",
+                "short_name": "Romeirao",
+                "types": [
+                    "political",
+                    "sublocality",
+                    "sublocality_level_1"
+                ]
+            },
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Romeirao, Juazeiro do Norte - CE, Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": -7.2230329,
+                    "lng": -39.31544
+                },
+                "southwest": {
+                    "lat": -7.2305929,
+                    "lng": -39.3221819
+                }
+            },
+            "location": {
+                "lat": -7.226118,
+                "lng": -39.3193269
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": -7.2230329,
+                    "lng": -39.31544
+                },
+                "southwest": {
+                    "lat": -7.2305929,
+                    "lng": -39.3221819
+                }
+            }
+        },
+        "place_id": "ChIJwb-8mZ14oQcRMvQGDVC0_Do",
+        "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "63030",
+                "short_name": "63030",
+                "types": [
+                    "postal_code",
+                    "postal_code_prefix"
+                ]
+            },
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_4",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "State of Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Juazeiro do Norte, State of Ceará, 63030, Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": -7.2138784,
+                    "lng": -39.3071513
+                },
+                "southwest": {
+                    "lat": -7.229007299999998,
+                    "lng": -39.3248843
+                }
+            },
+            "location": {
+                "lat": -7.222998700000001,
+                "lng": -39.3180297
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": -7.2138784,
+                    "lng": -39.3071513
+                },
+                "southwest": {
+                    "lat": -7.229007299999998,
+                    "lng": -39.3248843
+                }
+            }
+        },
+        "place_id": "ChIJ-99hUJ94oQcR5xgBPw8_vZs",
+        "types": [
+            "postal_code",
+            "postal_code_prefix"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_4",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "State of Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Juazeiro do Norte, State of Ceará, Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": -7.191603000000001,
+                    "lng": -39.2707814
+                },
+                "southwest": {
+                    "lat": -7.2637232,
+                    "lng": -39.3578372
+                }
+            },
+            "location": {
+                "lat": -7.224205400000001,
+                "lng": -39.3130162
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": -7.191603000000001,
+                    "lng": -39.2707814
+                },
+                "southwest": {
+                    "lat": -7.2637232,
+                    "lng": -39.3578372
+                }
+            }
+        },
+        "place_id": "ChIJN4E0npt4oQcR6qiYnTI2rG8",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_4",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Juazeiro do Norte, CE, Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": -7.140953199999999,
+                    "lng": -39.216888
+                },
+                "southwest": {
+                    "lat": -7.277583099999999,
+                    "lng": -39.3671381
+                }
+            },
+            "location": {
+                "lat": -7.2226855,
+                "lng": -39.299866
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": -7.140953199999999,
+                    "lng": -39.216888
+                },
+                "southwest": {
+                    "lat": -7.277583099999999,
+                    "lng": -39.3671381
+                }
+            }
+        },
+        "place_id": "ChIJ7Rkhtc14oQcRmqqqczoX5sI",
+        "types": [
+            "administrative_area_level_4",
+            "political"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Juazeiro do Norte",
+                "short_name": "Juazeiro do Norte",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "State of Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Juazeiro do Norte - State of Ceará, Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": -7.0926442,
+                    "lng": -39.1925844
+                },
+                "southwest": {
+                    "lat": -7.265999899999999,
+                    "lng": -39.3667034
+                }
+            },
+            "location": {
+                "lat": -7.229109699999999,
+                "lng": -39.3124589
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": -7.0926442,
+                    "lng": -39.1925844
+                },
+                "southwest": {
+                    "lat": -7.265999899999999,
+                    "lng": -39.3667034
+                }
+            }
+        },
+        "place_id": "ChIJPcW8U6J4oQcRjYrYaYgc0Qw",
+        "types": [
+            "administrative_area_level_2",
+            "political"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "State of Ceará",
+                "short_name": "CE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "State of Ceará, Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": -2.7843234,
+                    "lng": -37.2526586
+                },
+                "southwest": {
+                    "lat": -7.8581824,
+                    "lng": -41.4235179
+                }
+            },
+            "location": {
+                "lat": -5.4983977,
+                "lng": -39.3206241
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": -2.7843234,
+                    "lng": -37.2526586
+                },
+                "southwest": {
+                    "lat": -7.8581824,
+                    "lng": -41.4235179
+                }
+            }
+        },
+        "place_id": "ChIJxYbmJxizvQcRQniVr-A1tDs",
+        "types": [
+            "administrative_area_level_1",
+            "political"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Brazil",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 5.2717863,
+                    "lng": -28.650543
+                },
+                "southwest": {
+                    "lat": -34.0891,
+                    "lng": -73.9828169
+                }
+            },
+            "location": {
+                "lat": -14.235004,
+                "lng": -51.92528
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 5.2717863,
+                    "lng": -28.650543
+                },
+                "southwest": {
+                    "lat": -34.0891,
+                    "lng": -73.9828169
+                }
+            }
+        },
+        "place_id": "ChIJzyjM68dZnAARYz4p8gYVWik",
+        "types": [
+            "country",
+            "political"
+        ]
+    }
+]
